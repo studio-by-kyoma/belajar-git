@@ -1,1 +1,2 @@
 Ini catatan pertamaku belajar Git.
+Baris kedua, nyoba ngubah file.
